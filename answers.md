@@ -34,4 +34,4 @@ CDN is Content Delivery Network // It delivers cached or static information acro
 
 9. Props and State
 
-Props are inputs in a react component that are passed down from a parent to a child component, they are read only. If want to modify it, you use a state.
+Props are inputs in a react component that are passed down from a parent to a child component, they are read only. State is managed by the componenet itself, and only componenets defined as classes can have states.
